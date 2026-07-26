@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "4c4530889d1ee1e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e788800924e930ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dea56b3b5197b650",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Advanced-Degital-Design-&-Verification/lecture/Week-04_L1_TLM.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Week-04_L1_TLM"
+            }
+          },
+          {
+            "id": "f750fe8f26c45c40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "96e7a76a6327e8fd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Advanced-Degital-Design-&-Verification/lecture/Week-03_L2_SystemC.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Week-03_L2_SystemC"
+            }
+          },
+          {
+            "id": "ac4c6395ab317935",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Advanced-Degital-Design-&-Verification/lecture/Week-06_L1_HighLevelSynthesis.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Week-06_L1_HighLevelSynthesis"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c0fc7511d139b29",
+    "type": "split",
+    "children": [
+      {
+        "id": "53d8bf23555bf336",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8c4ffdfb09788da",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ba7312fbb7c3aa8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "95c7b82bbf33fca4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bb00446b704ca72c",
+    "type": "split",
+    "children": [
+      {
+        "id": "275af4c27cd8fee9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd0fb0b281bd7128",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Advanced-Degital-Design-&-Verification/lecture/Week-06_L2_HighLevelSynthesis.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Week-06_L2_HighLevelSynthesis"
+            }
+          },
+          {
+            "id": "d9b7cd15e3af33cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Advanced-Degital-Design-&-Verification/lecture/Week-06_L2_HighLevelSynthesis.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Week-06_L2_HighLevelSynthesis"
+            }
+          },
+          {
+            "id": "4a36dc8eab3153b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0e7cc7af6acee381",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "93432fd2806c3028",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Advanced-Degital-Design-&-Verification/lecture/Week-06_L2_HighLevelSynthesis.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Week-06_L2_HighLevelSynthesis"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f750fe8f26c45c40",
+  "lastOpenFiles": [
+    "2026-07-19_12-49-51.png",
+    "Pasted image 20260719141139.png",
+    "Advanced-Degital-Design-&-Verification/lecture/Week-04_L1_TLM.pdf",
+    "Untitled.md",
+    "Advanced-Degital-Design-&-Verification/lecture/Week-06_L1_HighLevelSynthesis.pdf",
+    "ADDV_Lookup.md",
+    "Vlsi-Design-Flow/lecture/Week04_L2_Introduction_2024-09-04.pdf",
+    "Vlsi-Design-Flow/lecture/Week10_Bonus_MidSemAttendanceReflection_2024-10-22.pdf",
+    "Vlsi-Design-Flow/lecture/Week10_L1_STA_2024-10-21.pdf",
+    "Vlsi-Design-Flow/lecture/Week04_L1_Introduction_2024-09-02.pdf",
+    "VDF_Lookup.md",
+    "Advanced-Degital-Design-&-Verification/lecture/Week-03_L2_SystemC.pdf",
+    "Advanced-Degital-Design-&-Verification/lecture/Week-04_L2_VirtualPlatforms.pdf",
+    "Advanced-Degital-Design-&-Verification/lecture/Week-07_L1_SystemVerilog.pdf",
+    "Vlsi-Design-Flow/chat-notes/STA_unateness_and_constraints.md",
+    "NBA Vs BA.md",
+    "Advanced-Degital-Design-&-Verification/lecture/Week-02_L1_SystemC.pdf",
+    "Pasted image 20260524144811.png"
+  ]
+}
